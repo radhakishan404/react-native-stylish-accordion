@@ -40,7 +40,7 @@
     "react": ">=16.9.55",
     "react-native": ">=0.63.30"
   },
-  "version": "1.1.0",
+  "version": "1.0.9",
   "description": "react native stylish accordion",
   "keywords": [
     "react",
@@ -54,9 +54,7 @@
     "collapsible-accordion-react-native",
     "react-animatable-accordion"
   ],
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/radhakishan404/react-native-stylish-accordion.git"
