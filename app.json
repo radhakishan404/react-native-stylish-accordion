@@ -1,0 +1,12 @@
+{
+  "name": "react-native-stylish-accordion",
+  "displayName": "react-native-stylish-accordion",
+  "expo": {
+    "name": "react-native-stylish-accordion",
+    "slug": "react-native-stylish-accordion",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
