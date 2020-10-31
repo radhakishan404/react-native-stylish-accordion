@@ -40,13 +40,31 @@
     "react": ">=16.9.55",
     "react-native": ">=0.63.30"
   },
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "react native stylish accordion",
   "keywords": [
     "react",
     "react-native",
-    "accordion"
+    "accordion",
+    "stylish-accordion",
+    "accordion-view",
+    "custom-accordion",
+    "accordion-package",
+    "accordion-react-native",
+    "collapsible-accordion-react-native",
+    "react-animatable-accordion"
   ],
-  "author": "Radhakishan jangid",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radhakishan404/react-native-stylish-accordion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/radhakishan404/react-native-stylish-accordion/issues"
+  },
+  "homepage": "https://github.com/radhakishan404/react-native-stylish-accordion#readme",
+  "author": "Radhakishan jangid <radhakishanjangid404@gmail.com> (https://radhakishan.vpran.in)",
   "license": "MIT"
 }
